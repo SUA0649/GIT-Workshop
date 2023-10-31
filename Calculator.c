@@ -1,6 +1,6 @@
 #include<stdio.h>
 int add(int a,int b);
-int sub(int a,int b);
+int sub(int l,int m);
 int mul(int a,int b);
 int div(int a,int b);
 
@@ -16,8 +16,8 @@ int main(){
 int add(int a,int b){
     return a+b;
 }
-int sub(int a,int b){
-    return a-b;
+int sub(int l,int m){
+    return l-m;
 }
 int mul(int a,int b){
     return a*b;
