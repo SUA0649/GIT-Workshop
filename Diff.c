@@ -6,5 +6,5 @@ int main(){
     printf("Enter the second number: ");
     scanf("%d",&m); //This takes the input of the second number
     diff= l-m;
-    printf("The difference of the two numbers are: %d",diff); //This prints the difference of two numbers
+    printf("The difference of the two numbers are: %d",diff); //This prints the difference of two no.s
 }
